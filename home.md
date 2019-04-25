@@ -36,9 +36,10 @@
   <div class="row">
     <div class="col-sm-4">
 		<aside>
-      <h3>Column 1</h3>
+      <h3>PacificoNoticias.CoM</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+			<img src="https://www.absolutviajes.com/wp-content/uploads/2009/10/playas.jpg" class="img-fluid" alt="Responsive image">
 			</aside>	
     </div>
     <div class="col-sm-5">
