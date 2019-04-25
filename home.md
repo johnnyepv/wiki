@@ -10,7 +10,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<nav>
+<div class="container">
+<header>
+<div class="jumbotron text-center">
+  <h1>PACIFICONOTICIAS.COM</h1>
+  <p>Todas las noticias de tu region en un solo lugar !</p> 
+</div>
+</header> 
 <ul class="nav nav-tabs bg-dark">
   <li class="nav-item">
     <a class="nav-link active" href="home">Principal</a>
@@ -25,16 +31,12 @@
     <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
-</nav>
   <div class="row">
-	<aside>
     <div class="col-sm-4">
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
-		</aside>
-		<section>
     <div class="col-sm-5">
       <table class="table table-bordered">
   <thead>
@@ -66,9 +68,7 @@
     </tr>
 </tbody>
 </table>
-    </div>
-		</section>		
-<aside>		
+    </div>	
     <div class="col-sm-3">
 						<div class="card" style="width: 14rem;">
   <div class="card-body">
@@ -88,7 +88,6 @@
 </div>
     </div>
   </div>
-	</aside>
 	<footer>
 	</footer>
 	
