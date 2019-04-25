@@ -42,13 +42,17 @@
   <thead>
     <tr>
       <th scope="col">Flash</th>
-      <th scope="col">Descripcion Noticias Pacifico Colombia</th>
+      <th scope="col">Descripcion Noticias Pacifico</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://www.fillmurray.com/150/150"></td>
-      <td>Otto</td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
+    </tr>
+		<tr>
+      <td><img src="https://loremflickr.com/640/360"></td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
 </tbody>
 </table>
