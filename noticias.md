@@ -70,7 +70,7 @@
   <tbody>
     <tr>
       <td><img src="https://www.fillmurray.com/150/150"></td>
-      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
+			<td>Lorem ipsum dolor sit amet, consectetur adipisicing elit.. . <a href="noticia1">Leer mas</a></td>
     </tr>
 		<tr>
       <td><img src="https://loremflickr.com/150/150"></td>
