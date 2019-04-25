@@ -20,10 +20,10 @@
 <nav>
 <ul class="nav nav-tabs bg-primary">
   <li class="nav-item">
-    <a class="nav-link active" href="home">Principal</a>
+    <a class="nav-link" href="home">Principal</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="noticias">Noticias</a>
+    <a class="nav-link active" href="noticias">Noticias</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="descubre">Descubre el pacifico</a>
