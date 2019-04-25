@@ -34,13 +34,13 @@
 </ul>
 </nav>
   <div class="row">
-	<aside>
     <div class="col-sm-4">
+		<aside>
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+			</aside>	
     </div>
-		</aside>	
     <div class="col-sm-5">
 		</aside>	
       <table class="table table-bordered">
