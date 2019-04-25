@@ -76,6 +76,7 @@
 </section>
     </div>	
     <div class="col-sm-3">
+		<aside>
 						<div class="card" style="width: 14rem;">
   <div class="card-body">
     <h5 class="card-title">Vive Pacifico !</h5>
@@ -94,6 +95,7 @@
 </div>
     </div>
   </div>
+	</aside>	
 	<footer>
 	</footer>
 	
