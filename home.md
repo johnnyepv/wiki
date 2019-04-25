@@ -12,7 +12,7 @@
 <body>
 <div class="container">
 <header>
-<div class="jumbotron text-center">
+<div class="header">
   <h1>PACIFICONOTICIAS.COM</h1>
   <p>Todas las noticias de tu region en un solo lugar !</p> 
 </div>
