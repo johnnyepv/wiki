@@ -87,10 +87,11 @@
 </tbody>
 </table>
 </section>
-    </div>	
+    </div>
+		</div>
 	<footer>
 	<div class="row">
-		<div class="col-sm">
+		<div class="col-sm-12">
 		<h3>Todos los derechos reservados @ Pacificonoticias.CoM</h3>
 		</div>
 	</div>
