@@ -31,7 +31,7 @@
     <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
-  <div class="row  bg-secondary">
+  <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
