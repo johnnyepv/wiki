@@ -42,7 +42,7 @@
   <thead>
     <tr>
       <th scope="col">Flash</th>
-      <th scope="col">Descripcion</th>
+      <th scope="col">Descripcion Noticias Pacifico</th>
     </tr>
   </thead>
   <tbody>
