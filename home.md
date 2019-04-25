@@ -18,7 +18,7 @@
 </div>
 </header>
 <nav>
-<ul class="nav nav-tabs bg-dark">
+<ul class="nav nav-tabs bg-primary">
   <li class="nav-item">
     <a class="nav-link active" href="home">Principal</a>
   </li>
