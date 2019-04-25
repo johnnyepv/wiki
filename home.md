@@ -47,7 +47,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Mark</td>
+      <td><img src="https://www.fillmurray.com/150/150"></td>
       <td>Otto</td>
     </tr>
 </tbody>
