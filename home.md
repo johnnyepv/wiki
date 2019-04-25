@@ -54,6 +54,18 @@
       <td><img src="https://loremflickr.com/150/150"></td>
       <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
+		<tr>
+      <td><img src="https://loremflickr.com/150/150"></td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
+    </tr>
+		<tr>
+      <td><img src="https://loremflickr.com/150/150"></td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
+    </tr>
+		<tr>
+      <td><img src="https://loremflickr.com/150/150"></td>
+      <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
+    </tr>
 </tbody>
 </table>
     </div>
