@@ -10,13 +10,6 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div class="container">
-<header>
-<div class="jumbotron text-center">
-  <h1>PACIFICONOTICIAS.COM</h1>
-  <p>Todas las noticias de tu region en un solo lugar !</p> 
-</div>
-</header> 
 <nav>
 <ul class="nav nav-tabs bg-dark">
   <li class="nav-item">
