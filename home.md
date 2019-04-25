@@ -31,18 +31,18 @@
     <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
-  <div class="row">
-    <div class="col-sm-4 bg-secondary">
+  <div class="row  bg-secondary">
+    <div class="col-sm-4">
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
-    <div class="col-sm-5 bg-secondary">
+    <div class="col-sm-6">
       <h3>Column 2</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
-    <div class="col-sm-3 bg-secondary">
+    <div class="col-sm-2">
       <h3>Column 3</h3>        
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
