@@ -56,8 +56,6 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 			<img src="https://www.absolutviajes.com/wp-content/uploads/2009/10/playas.jpg" class="img-fluid" alt="Responsive image">
-			<img src="https://playascalas.com/wp-content/2011/04/playas-paradisiacas-en-el-pacifico3.jpg" class="img-fluid" alt="Responsive image">
-			
 			</aside>	
     </div>
     <div class="col-sm-8">
