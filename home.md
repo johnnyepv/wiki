@@ -16,7 +16,8 @@
   <h1>PACIFICONOTICIAS.COM</h1>
   <p>Todas las noticias de tu region en un solo lugar !</p> 
 </div>
-</header> 
+</header>
+<nav>
 <ul class="nav nav-tabs bg-dark">
   <li class="nav-item">
     <a class="nav-link active" href="home">Principal</a>
@@ -31,6 +32,8 @@
     <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
+</nav>
+<aside>
   <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
@@ -38,6 +41,7 @@
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
     <div class="col-sm-5">
+		</aside>	
       <table class="table table-bordered">
   <thead>
     <tr>
