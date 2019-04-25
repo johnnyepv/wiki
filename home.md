@@ -37,13 +37,13 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
-    <div class="col-sm-6">
+    <div class="col-sm-5">
       <h3>Column 2</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
-    <div class="col-sm-2">
-						<div class="card" style="width: 18rem;">
+    <div class="col-sm-3">
+						<div class="card" style="width: 10rem;">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -51,7 +51,7 @@
   </div>
 </div>
 
-<div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 10rem;">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
@@ -59,7 +59,7 @@
   </div>
 </div>
 
-<div class="card text-right" style="width: 18rem;">
+<div class="card text-right" style="width: 10rem;">
   <div class="card-body">
     <h5 class="card-title">Special title treatment</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
