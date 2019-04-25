@@ -62,6 +62,7 @@
 		<section>
 		<h1>Descubre el pacifico Colombiano</h1>
 		<img src="https://playascalas.com/wp-content/2011/04/playas-paradisiacas-en-el-pacifico.jpg" class="img-fluid" alt="Responsive image">
+		<img src="https://playascalas.com/wp-content/2011/04/playas-paradisiacas-en-el-pacifico3.jpg" class="img-fluid" alt="Responsive image">
 </section>
     </div>
 		</div>
