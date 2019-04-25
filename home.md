@@ -10,13 +10,14 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+<div class="container">
+<header>
 <div class="jumbotron text-center">
   <h1>PACIFICONOTICIAS.COM</h1>
   <p>Todas las noticias de tu region en un solo lugar !</p> 
 </div>
-  
-<div class="container">
+</header> 
+<nav>
 <ul class="nav nav-tabs bg-dark">
   <li class="nav-item">
     <a class="nav-link active" href="home">Principal</a>
@@ -31,12 +32,16 @@
     <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
+</nav>
   <div class="row">
+	<aside>
     <div class="col-sm-4">
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
+		</aside>
+		<section>
     <div class="col-sm-5">
       <table class="table table-bordered">
   <thead>
@@ -55,20 +60,22 @@
       <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
 		<tr>
-      <td><img src="https://loremflickr.com/150/150"></td>
+      <td><img src="https://placekitten.com/150/150"></td>
       <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
 		<tr>
-      <td><img src="https://loremflickr.com/150/150"></td>
+      <td><img src="https://baconmockup.com/150/150"></td>
       <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
 		<tr>
-      <td><img src="https://loremflickr.com/150/150"></td>
+      <td><img src="https://placebeard.it/150x150"></td>
       <td>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</td>
     </tr>
 </tbody>
 </table>
     </div>
+		</section>		
+<aside>		
     <div class="col-sm-3">
 						<div class="card" style="width: 14rem;">
   <div class="card-body">
@@ -85,16 +92,13 @@
     <a href="#" class="btn btn-primary">Comprar.</a>
   </div>
 </div>
-
-<div class="card text-right" style="width: 14rem;">
-  <div class="card-body">
-    <h5 class="card-title">Chontaduro</h5>
-    <p class="card-text">Fruto de los Dioses, la fruta del pacifico que deleita a todos los comensales</p>
-    <a href="#" class="btn btn-primary">Comprar</a>
-  </div>
 </div>
     </div>
   </div>
+	</aside>
+	<footer>
+	</footer>
+	
 </div>
 
 </body>
