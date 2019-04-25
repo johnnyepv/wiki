@@ -42,7 +42,7 @@
 			</aside>	
     </div>
     <div class="col-sm-5">
-		</aside>	
+		<section>
       <table class="table table-bordered">
   <thead>
     <tr>
@@ -73,6 +73,7 @@
     </tr>
 </tbody>
 </table>
+</section>
     </div>	
     <div class="col-sm-3">
 						<div class="card" style="width: 14rem;">
