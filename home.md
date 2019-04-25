@@ -97,6 +97,11 @@
   </div>
 	</aside>	
 	<footer>
+	<div class="row">
+		<div class="col-sm">
+		<h3>Todos los derechos reservados @ Pacificonoticias.CoM</h3>
+		</div>
+	</div>
 	</footer>
 	
 </div>
