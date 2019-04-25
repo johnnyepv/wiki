@@ -17,18 +17,18 @@
 </div>
   
 <div class="container">
-<ul class="nav nav-tabs">
+<ul class="nav nav-tabs bg-dark">
   <li class="nav-item">
-    <a class="nav-link active" href="#">Active</a>
+    <a class="nav-link active" href="home">Principal</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="noticias">Noticias</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="descubre">Descubre el pacifico</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link disabled" href="#">Disabled</a>
+    <a class="nav-link disabled" href="somos">Quines Somos</a>
   </li>
 </ul>
   <div class="row">
