@@ -1,0 +1,50 @@
+<!-- TITLE: New -->
+<!-- SUBTITLE: A quick summary of New -->
+
+<!doctype html>
+<html>
+  <head>
+    <title>nodewiki - {{ title }}</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/extra.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+		<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+			MathJax.Hub.Config({
+				tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+			});		
+		</script>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand">nodewiki</a>
+      </div>
+      <div id="navbar">
+        <ul class="nav navbar-nav">
+          <li class="active"><a>View</a></li>
+          <li><a href="/edit/{{ link }}">Edit</a></li>
+          <li><a href="/upload/image/view/{{ link }}">Upload</a></li>
+        </ul>
+				<form class="navbar-form navbar-right" role="search" method="POST" action="/search/">
+  				<div class="form-group">
+    				<input id="searchbox" name="searchbox" type="text" class="form-control">
+  				</div>
+  				<button type="submit" class="btn btn-default">Search Pages</button>
+				</form>
+      </div>
+    </div>
+    </nav>  
+ 
+    <div class="container">
+      <div class="page-header">
+        <h1>{{ title }}</h1>
+      </div>
+      {% autoescape false %}
+      <p>{{ text }}</p>
+      {% endautoescape %}
+    </div>
+
+  </body>
+</html>
