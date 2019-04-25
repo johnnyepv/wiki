@@ -61,8 +61,10 @@
     <div class="col-sm-8">
 		<section>
 		<h1>El Loco Murray</h1>
-		<img src="https://www.fillmurray.com/400/400" class="img-fluid" alt="Responsive image">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.. . </p>
+		<img src="https://www.fillmurray.com/800/400" class="img-fluid" alt="Responsive image">
+		<p>Lorem ipsum dolor sit amet consectetur adipiscing, elit iaculis sociis platea elementum auctor, varius ut quam faucibus mus. Accumsan vivamus in nostra est sociosqu rhoncus aliquam magna facilisi tempus nunc donec inceptos phasellus, bibendum fames ridiculus luctus lacus scelerisque diam ultricies netus platea orci condimentum. Justo dictum nec litora facilisis quis sociis, orci rhoncus pretium nullam magna himenaeos aliquet, cubilia luctus quam natoque pellentesque.
+
+Vitae himenaeos pellentesque placerat integer curae massa fusce nibh platea, risus nec scelerisque donec phasellus nisi aptent cursus luctus, mus mi ridiculus cum sodales a dignissim est. Ullamcorper facilisi posuere ligula suspendisse varius inceptos venenatis, morbi felis primis fringilla arcu ac sollicitudin, tempor pulvinar dictumst natoque dapibus laoreet. Praesent inceptos egestas molestie nostra habitant dis, ornare vestibulum sodales sapien iaculis fermentum viverra, placerat rutrum quam leo mollis.</p>
 </section>
     </div>
 		</div>
