@@ -54,27 +54,27 @@
 </table>
     </div>
     <div class="col-sm-3">
-						<div class="card" style="width: 15rem;">
+						<div class="card" style="width: 14rem;">
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Vive Pacifico !</h5>
+    <p class="card-text">Comunidad de viajeros locales e internacionales que se dedican a viajar por todo el pacifico</p>
+    <a href="#" class="btn btn-primary">Unete</a>
   </div>
 </div>
 
-<div class="card text-center" style="width: 15rem;">
+<div class="card text-center" style="width: 14rem;">
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Viche "Licor natural"</h5>
+    <p class="card-text">Disfruta de este licor natural del pacifico, realizado con la mas dulce caña de azucar y realizado por artesanos del pacifico.</p>
+    <a href="#" class="btn btn-primary">Comprar.</a>
   </div>
 </div>
 
-<div class="card text-right" style="width: 15rem;">
+<div class="card text-right" style="width: 14rem;">
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Chontaduro</h5>
+    <p class="card-text">Fruto de los Dioses, la fruta del pacifico que deleita a todos los comensales</p>
+    <a href="#" class="btn btn-primary">Comprar</a>
   </div>
 </div>
     </div>
